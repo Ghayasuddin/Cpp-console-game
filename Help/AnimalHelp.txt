@@ -1,0 +1,14 @@
+	--------------------------------HELP--------------------------------
+	--------------------------------------------------------------------
+	>> Think of any animal in mind
+	>> Series of questions will be asked to you
+	>> You give Answer in yes or no
+	>> At end we will guess your animal
+	>> if right then you give us money :P
+	>> if wrong then tell us about your animal and
+	   help our AI grow
+	>> First write your animal name
+	>> Then write Simple Question that give "Yes" as answer
+	   to your animal
+
+	********Game World created by Ghayas && Anas********

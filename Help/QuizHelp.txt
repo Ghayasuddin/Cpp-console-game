@@ -1,0 +1,12 @@
+	--------------------------------HELP--------------------------------
+	--------------------------------------------------------------------
+	>> The Game contains 15 question each category
+	>> You can play Single or Multiplayer Game
+	>> You can select the which category you want to play
+	>> Then select the number of questions i.e 5
+	>> 5 questions will be ask from selected category
+	>> At the end your score will be shown
+	>> you can view the highest score in main menu
+	>> press q to exit the game
+
+	********Game World created by Ghayas && Anas********

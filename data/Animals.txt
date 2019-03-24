@@ -1,0 +1,31 @@
+Does your animal have 4 legs?
+Does it give milk?
+Is it a dessert animal?
+Camel
+isNull
+isNull
+Cow
+isNull
+isNull
+is it Magical?
+Unicorn
+isNull
+isNull
+Does it have a trunk?
+Elephant
+isNull
+isNull
+Is its category is persian?
+Cat
+isNull
+isNull
+Horse
+isNull
+isNull
+Does it crawl?
+Snake
+isNull
+isNull
+Bird
+isNull
+isNull

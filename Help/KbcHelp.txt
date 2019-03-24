@@ -1,0 +1,13 @@
+	--------------------------------HELP--------------------------------
+	--------------------------------------------------------------------
+	>> The Game contains 15 question
+	>> You can earn money on every right answer
+	>> If you give wrong answer your money will go down
+	   to last checkpoint
+	>> You have two Life Lines 50/50 OR two try
+	>> In 50/50 Two wrong options will be removed
+	>> In Two Try you will have two chances
+	>> Yellow shows your current money
+	>> Red shows last checkpoint
+
+	********Game World created by Ghayas && Anas********

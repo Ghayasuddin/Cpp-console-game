@@ -1,0 +1,78 @@
+Which of the following memories is an optical memory?
+
+A- Floppy Disk	B- Bubble Memories
+C- CD-ROM   	D- Core Memories.
+
+The unit of speed used for super computer is 
+
+A- KELOPS	B- GELOPS
+C- MELOPS	D- None of these.
+
+Whose trademark is the operating system UNIX?
+
+A- Motorola		B- Microsoft
+C- BELL Laboratories	D- AshtonTate.
+
+Which gate is a single integrated circuit?
+
+A- Gate		B- Mother Board
+C- Chip		D- CPU.
+ 
+Find the odd man out
+
+A- Coaxial cable	B- Microwaves
+C- Optical fibre	D- Twisted pair wire.
+
+
+The parity bit is added for the purpose of
+
+A- Coding		B- Error detection
+C- Controlling		D- Indexing.
+ 
+India’s first super computer is
+
+A- Agni		B- Flow solver
+C- Param	D- Trisul.
+
+The computer that is not considered as a portable computer is
+
+A- Laptop computer	B- Mini computer
+C- Notebook computer	D- None of these.
+
+The first movie released in 1982 with terrific 
+computer animation and graphics was
+
+A- Star wars		B- Tron
+C- Forbidden planet	D- Dark star.
+
+Graphic interfaces were first used in a xerox product is called
+
+A- Ethernet 	B- Inter LISP
+C- Small talk	D- Zeta LISP.
+
+ISDN stands for
+
+A- International Standard Digital Network	
+B- International Subscriber Dialing Network
+C- Integrated Service Digital Network		
+D- Integrated System Digital Network.
+ 
+Find the odd one out
+
+A- ORACLE	B- SYBASE
+C- C		D- INFORMIX.
+  
+FPI stands for
+
+A- Faults per inch	B- Frames per inch
+C- Film per inch	D- Figure per inch.
+ 
+A language for simulating models of business activity is
+
+A- SPSS		B- GPSS
+C- COBOL	D- DL.
+ 
+Find the odd one out
+
+A- FTP	B- POP
+C- SAP	D- TCP.

@@ -1,0 +1,8 @@
+	--------------------------------HELP--------------------------------
+	--------------------------------------------------------------------
+	>> Rules:
+	>> 		You can not move larger number disk over smaller
+	>> 		You have to move disks from tower A to C in same orders
+	>> 		You have limited moves
+
+	********Game World created by Ghayas && Anas********

@@ -1,0 +1,78 @@
+Abstract class is __
+
+A- A class must contain all pure virtual functions
+B- A class must contain at least one pure virtual function
+C- A class may not contain pure virtual function
+D- A class must contain pure virtual function defined outside the class.
+
+Designer of C++ programming language
+
+A- Charles Babbage	B- Dennis Ritchie
+C- Brain Kernighan	D- Bjarne Stroustrup.
+
+A C++ program statements can be commented using
+
+A- Single line comment		B- Multi line comment
+C- Neither (a) or (b)		D- Both (a) and (b).
+
+An exception is __
+
+A- Runtime error	B- Compile time error
+C- Logical error	D- None of the above.
+
+Choose the pure virtual function definition from the following
+
+A- virtual void f()=0 { }	B- void virtual f()=0 { }
+C- virtual void f() {} = 0;	D- None of the above.
+
+Operators sizeof and ?:
+
+A- Both can be overloaded		B- Both cannot be overloaded
+C- Only sizeof can be overloaded	D- Only ?: can be overloaded.
+
+Class function which is called automatically as soon as the object
+is created is called as __
+
+A- Constructor		B- Destructor
+C- Friend function 	D- Inline function.
+
+i- Exception handling technically provides multi branching
+ii- Exception handling can be mimicked using goto construct
+
+A- Only (i) is true		B- Only (ii) is true
+C- Both (i) & (ii) are true	D- Both (i) && (ii) are false.
+
+Compiler generates ___ file
+
+A- Executable code	B- Object code
+C- Assembly code	D- None of the above.
+
+Choose the invalid identifier from the below
+
+A- Int		B- bool
+C- DOUBLE	D- __0__.
+
+A trigraph character begins with
+
+A- #	B- ##
+C- ?	D- ??.
+
+A protected member of the class in accessible in
+
+A- Only same class	B- Same class and derived class
+C- Outside the class	D- None of the above.
+
+Which operator is used to resolve the scope of the global variable?
+
+A- ->	B- <-
+C- *	D- ::.
+
+An exception is __
+
+A- Runtime error	B- Compile time error
+C- Logical error	D- None of the above.
+
+cin is an __
+
+A- Class	B- Object
+C- Package	D- Namespace.

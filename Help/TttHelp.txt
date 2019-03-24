@@ -1,0 +1,11 @@
+	--------------------------------HELP--------------------------------
+	--------------------------------------------------------------------
+	>> This is Player vs Player game
+	>> Select Number of rounds you want to play
+	>> Press any key to play
+	>> Board will be Shown with respected numbers 
+	>> You can select from 1-9 to put your Mark
+	>> First to get three in a row wins
+	>> player vs cpu with AI coming soon ;)
+
+	********Game World created by Ghayas && Anas********

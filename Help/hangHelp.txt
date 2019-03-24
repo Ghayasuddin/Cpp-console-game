@@ -1,0 +1,12 @@
+	--------------------------------HELP--------------------------------
+	--------------------------------------------------------------------
+	>> You have two option either play game or add words in game
+	>> Guess the word letter by letter
+	>> You have maximum 5 wrong guesses
+	>> If you guess it right you are released
+	>> If you guess it wrong you will be hanged and publicly executed :D
+	>> If you want to add words in game then
+	   Enter word you want to add and category/Hint according to
+	   your word
+
+	********Game World created by Ghayas && Anas********

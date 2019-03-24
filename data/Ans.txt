@@ -1,0 +1,665 @@
+								
+								C++
+								
+1-  Abstract class is __
+
+A- A class must contain all pure virtual functions
+B- A class must contain at least one pure virtual function
+C- A class may not contain pure virtual function
+D- A class must contain pure virtual function defined outside the class.
+
+Answer: B
+
+2- Designer of C++ programming language
+
+A- Charles Babbage	B- Dennis Ritchie
+C- Brain Kernighan	D- Bjarne Stroustrup.
+
+Answer: D
+
+3- A C++ program statements can be commented using
+
+A- Single line comment		B- Multi line comment
+C- Neither (a) or (b)		D- Both (a) and (b).
+
+Answer: D
+
+4- An exception is __
+
+A- Runtime error	B- Compile time error
+C- Logical error	D- None of the above.
+
+Answer: A
+
+5- Choose the pure virtual function definition from the following
+
+A- virtual void f()=0 { }	B- void virtual f()=0 { }
+C- virtual void f() {} = 0;	D- None of the above.
+
+Answer: D
+
+6- Operators sizeof and ?:
+
+A- Both can be overloaded		B- Both cannot be overloaded
+C- Only sizeof can be overloaded	D- Only ?: can be overloaded.
+
+Answer: B
+
+7- Class function which is called automatically as soon as the object
+   is created is called as __
+ 
+A- Constructor		B- Destructor
+C- Friend function 	D- Inline function.
+
+Answer: A
+
+8- i- Exception handling technically provides multi branching
+   ii- Exception handling can be mimicked using goto construct
+
+A- Only (i) is true		B- Only (ii) is true
+C- Both (i) & (ii) are true	D- Both (i) && (ii) are false.
+
+Answer: A
+
+9- Compiler generates ___ file
+
+A- Executable code	B- Object code
+C- Assembly code	D- None of the above.
+
+Answer: B
+
+10- Choose the invalid identifier from the below
+
+A- Int		B- bool
+C- DOUBLE	D- __0__.
+
+Answer: B
+
+11- A trigraph character begins with
+
+A- #	B- ##
+C- ?	D- ??.
+
+Answer: C
+
+12- A protected member of the class in accessible in
+
+A- Only same class	B- Same class and derived class
+C- Outside the class	D- None of the above.
+
+Answer: B
+
+13- Which operator is used to resolve the scope of the global variable?
+
+A- ->	B- <-
+C- *	D- ::.
+
+Answer: D
+
+14- An exception is __
+
+A- Runtime error	B- Compile time error
+C- Logical error	D- None of the above.
+
+Answer: A
+
+15- cin is an __
+
+A- Class	B- Object
+C- Package	D- Namespace.
+
+Answer: B
+
+
+								COMPUTER
+								
+1- Which of the following memories is an optical memory?
+
+A- Floppy Disk	B- Bubble Memories
+C- CD-ROM   	D- Core Memories.
+
+Answer: C
+
+
+2- The unit of speed used for super computer is 
+
+A- KELOPS	B- GELOPS
+C- MELOPS	D- None of these.
+
+
+Answer: B
+
+3- Whose trademark is the operating system UNIX?
+
+A- Motorola		B- Microsoft
+C- BELL Laboratories	D- AshtonTate.
+
+Answer: C
+
+4- Which gate is a single integrated circuit?
+
+A- Gate		B- Mother Board
+C- Chip		D- CPU.
+
+Answer: A
+ 
+5- Find the odd man out
+
+A- Coaxial cable	B- Microwaves
+C- Optical fibre	D- Twisted pair wire.
+
+Answer: B
+
+6- The parity bit is added for the purpose of
+
+A- Coding		B- Error detection
+C- Controlling		D- Indexing.
+
+Answer: B
+ 
+7- India’s first super computer is
+
+A- Agni		B- Flow solver
+C- Param	D- Trisul.
+
+Answer: C
+
+8- The computer that is not considered as a portable computer is
+
+A- Laptop computer	B- Mini computer
+C- Notebook computer	D- None of these.
+
+Answer: B
+
+9- The first movie released in 1982 with terrific 
+   computer animation and graphics was
+
+A- Star wars		B- Tron
+C- Forbidden planet	D- Dark star.
+
+Answer: A
+
+10- Graphic interfaces were first used in a xerox product is called
+
+A- Ethernet 	B- Inter LISP
+C- Small talk	D- Zeta LISP.
+
+Answer: A
+
+11- ISDN stands for
+
+A- International Standard Digital Network	
+B- International Subscriber Dialing Network
+C- Integrated Service Digital Network		
+D- Integrated System Digital Network.
+
+Answer: C
+ 
+12- Find the odd one out
+
+A- ORACLE	B- SYBASE
+C- C		D- INFORMIX.
+
+Answer: C
+  
+13- FPI stands for
+
+A- Faults per inch	B- Frames per inch
+C- Film per inch	D- Figure per inch.
+
+Answer: B
+ 
+14- A language for simulating models of business activity is
+
+A- SPSS		B- GPSS
+C- COBOL	D- DL.
+
+Answer: B
+ 
+15- Find the odd one out
+
+A- FTP	B- POP
+C- SAP	D- TCP.
+
+Answer: B
+
+							GK
+							
+1- Eritrea, which became the 182nd member of the UN in 1993,
+   is in the continent of
+ 
+A- Asia 	B- Africa 
+C- Europe 	D- Australia. 
+
+Answer: B
+
+2- For which of the following disciplines is Nobel Prize awarded?
+ 
+A- Physics and Chemistry 		B- Physiology or Medicine 
+C- Literature, Peace and Economics 	D- All of the above. 
+
+Answer: D
+
+3- Frederick Sanger is a twice recipient of the Nobel Prize for
+ 
+A- Chemistry in 1958 and 1980 			
+B- Physics in 1956 and 1972 
+C- Chemistry in 1954 and Peace in 1962 		
+D- Physics in 1903 and Chemistry in 1911. 
+
+Answer: B
+
+4- First human heart transplant operation conducted by 
+    Dr Christiaan Barnard on Louis Washkansky, was conducted in
+ 
+A- 1967 	B- 1968 
+C- 1958 	D- 1922.
+
+Answer: A
+
+5- Exposure to sunlight helps a person improve his health because
+ 
+A- the infrared light kills bacteria in the body 				
+B- resistance power increases 
+C- the pigment cells in the skin get stimulated and produce a healthy tan 	
+D- the ultraviolet rays convert skin oil into Vitamin D. 
+
+Answer: D
+
+6- Golf player Vijay Singh belongs to which country?
+ 
+A- USA 		B- Fiji 
+C- India 	D- UK .
+
+Answer: B
+
+7- First Afghan War took place in
+ 
+A- 1839 	B- 1843 
+C- 1833 	D- 1848. 
+
+Answer: A
+
+8- First China War was fought between
+ 
+A- China and Britain 	B- China and France 
+C- China and Egypt 	D- China and Greek .
+
+Answer: A
+
+9- For the Olympics and World Tournaments, the dimensions of basketball court are
+ 
+A- 26 m x 14 m 		B- 28 m x 15 m 
+C- 27 m x 16 m 		D- 28 m x 16 m. 
+
+Answer: B
+
+10- Federation Cup, World Cup, Allywyn International Trophy and Challenge Cup
+     are awarded to winners of
+ 
+A- Tennis 		B- Volleyball 
+C- Basketball 		D- Cricket. 
+
+Answer: B
+
+11- Each year World Red Cross and Red Crescent Day is celebrated on
+ 
+A- May 8 	B- May 18 
+C- June 8 	D- June 18.
+
+Answer: A
+
+12- Famous sculptures depicting art of love built some time in 950–1050 AD are
+ 
+A- Khajuraho temples 	B- Jama Masjid 
+C- Sun temple 		D- Mahabalipuram temples .
+
+Answer: A
+
+13- Gravity setting chambers are used in industries to remove
+ 
+A- SOx 					B- NOx 
+C- suspended particulate matter 	D- CO. 
+
+Answer: C
+ 
+14- Friction can be reduced by changing from
+ 
+A- sliding to rolling 			B- rolling to sliding 
+C- potential energy to kinetic energy 	D- dynamic to static .
+
+Answer: A
+
+15- During World War II, when did Germany attack France?
+ 
+A- 1940 	B- 1941 
+C- 1942 	D- 1943.
+
+Answer: A
+
+							PSL
+							
+1- Which West Indian cricketing legend is associated
+  with Quetta Gladiators?
+
+A- Curtly Ambrose	B- Vivian Richards
+C- Clive Lloyd     	D- Garfield Sobers.
+
+Answer: B
+
+2- Which Islamabad United all_rounder not play 2017 PSL?
+
+A- Umer Amin		B- Shane Watson
+C- Ruman Raees		D- Andre Russell.
+
+Answer: D
+
+3- Chris Gayle was playing for ____ in PSL 2016
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: A
+
+4- Chris Green was playing for ____ in PSL 2017
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: A
+
+5- Grant Elliott was playing for ____ in PSL 2016
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: C
+
+6- Grant Elliott was playing for ____ in PSL 2017
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: A
+
+7- Amad Butt was playing for ____ in PSL 2017
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: D
+
+8- Hassan Khan was playing for ____ in PSL 2017
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: C
+
+9- Sohail Khan was playing for ____ in PSL 2017
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: B
+
+10- Baber Azam was playing for ____ in PSL 2016
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: D
+
+11- Luck Wright was playing for ____ in PSL 2016
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: C
+
+12- Sam Billings was playing for ____ in PSL 2016
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: D
+
+13- Ahmed Shehzad was playing for ____ in PSL 2016
+
+A- lahore qalandars	B- Karachi King
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: C
+
+14- Sohaib Maqsood was playing for ____ in PSL 2017
+
+A- lahore qalandars	B- Peshawar Zalmi
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: B
+
+15- Sohaib Maqsood was playing for ____ in PSL 2016
+
+A- lahore qalandars	B- Peshawar Zalmi
+C- Quetta Gladiators	D- Islamabad United.
+
+Answer: A
+							
+							Inventions
+							
+1- Television was invented by 
+
+A- Sholes	B- J_L_Baird
+C- Shockley	D- John Napier.
+ 
+Answer: B
+
+2-  Air conditioner was discovered by
+
+A- Edison	B- Wilson
+C- Carrier	D- Roentgen.
+
+Answer: C
+
+3-  Roentgen discovered
+
+A- Electrocardiograph		B- X–rays
+C- Anti polio vaccine		D- Encephalograph.
+
+Answer: B
+
+4- Who invented logarithms?
+
+A- Mandeleef	B- Shockley
+C- Amundson	D- John Napier.
+
+Answer: D
+
+5-  The theory of Evolution was produced by
+
+A- Darwin	B- Einstein
+C- Newton	D- Mendel.
+
+Answer: A
+
+6- Cinematography was invented by
+
+A- Graham Bell		B- Edison
+C- Zeiss		D- Faraday.
+
+Answer: B
+
+7- Inert gases were discovered by
+
+A- Dalton	B- Newton
+C- Roentgen	D- Ramsay.
+
+Answer: D
+
+8- Who discovered oxygen?
+
+A- Lavoisier	B- Joseph Priestley
+C- Dalton	D- Swinton.
+
+Answer: B
+
+9- W_Harvey discovered by
+
+A- Laws of heredity		B- Dynamite
+
+C- Crystal dynamics		D- Circulation of blood.
+
+Answer: D
+
+10- James Chadwick discovered
+
+A- Electron		B- Proton
+C- Neutron		D- Atom.
+
+Answer: C
+
+11- Revolver discovered by
+
+A- Colt			B- Mercafter
+C- Bushwell		D- Daimler.
+
+Answer: A
+
+12- Typewriter was invented by
+
+A- Shockley	B- Sholes
+C- Howe		D- none of these.
+
+Answer: B
+
+13- Blood Circulation was discovered by
+
+A- Louis			B- Alexander Fleming
+C- William Harvey		D- none of these.
+
+Answer: C
+
+14- Streptomycin was invented by
+
+A- Fleming		B- Marie Curie
+C- Walksman		D- None of these.
+
+Answer: C
+
+15- Analytical Engine was invented by
+A- Dewar		B- Charles Babbage
+C- Daimler		D- None of these.
+
+Answer: B
+
+									SPORTS
+									
+1- Which was the 1st non Test playing country to beat India in
+   an international match?
+
+A- Canada 	B- Sri Lanka 
+C- Zimbabwe 	D- East Africa. 
+
+Answer: B
+
+2-  Former Australian captain Mark Taylor has had several nicknames
+    over his playing career  Which of the following was NOT one of them?
+ 
+A- Tubby 	B- Stodge 
+C- Helium Bat 	D- Stumpy. 
+
+Answer: D
+
+3- Track and field star Carl Lewis won how many gold medals at the
+   1984 Olympic games?
+ 
+A- Two 	B- Three 
+C- Four D- Eight. 
+
+Answer: C
+
+4-  Ricky Ponting is also known as what?
+ 
+A- The Rickster 	B- Ponts 
+C- Ponter 		D- Punter. 
+
+Answer: D
+
+5-  How long are professional Golf Tour players allotted per shot?
+ 
+A- 45 seconds 	B- 25 seconds 
+C- 1 minute 	D- 2 minutes. 
+
+Answer: A
+
+6-  Which NBA player scored 8 points in the final 7 seconds of a 
+    game to lead his team to victory?
+ 
+A- Baron Davis 		B- Kevin Garnett 
+C- Stephon Maurbury 	D- Reggie Miller. 
+
+Answer: D
+
+7-  Mark Waugh is commonly called what?
+ 
+A- Afganistan 	B- Junior 
+C- Tugga 	D- Julio. 
+
+Answer: B
+
+8-  Which player has scored the most runs in a single Test innings?
+ 
+A- Graham Gooch 	B- Matthew Hayden 
+C- Brian Lara 		D- Agarkar. 
+
+Answer: C
+
+9- Which of the following countries won the final of the triangular 
+   cricket series held in durban in februarry 1997 ?
+ 
+A- India 		B- New zealand 
+C- South africa 	D- Zimbabwe. 
+
+Answer: C
+
+10- Yondieki who set up a new world record in 10,000 meters race, belongs to
+ 
+A- Australia 	B- Canada 
+C- Kenya 	D- Mexico. 
+
+Answer: C
+
+11- The term “Slam” is associated with
+
+A- Cricket	B- Tennis
+C- Boxing	D- Football.
+
+Answer: B
+
+12- The term Googly is associated with
+
+A- Cricket	B- Football
+C- Badminton	D- Hockey.
+
+Answer: A
+
+13- In 1924 the first winter Olympics was held in
+
+A- Italy	B- France
+C- Austria	D- Canada.
+
+Answer: B
+
+14- 2009 Davis cup was won by
+
+A- France	B- Spain
+C- US		D- Czech Republic.
+
+Answer: B
+
+15- Who are Kangaroos?
+
+A- Bangladesh		B- Kenya 
+C- South Africa		D- Australia.
+
+Answer: D

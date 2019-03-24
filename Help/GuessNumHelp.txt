@@ -1,0 +1,10 @@
+	--------------------------------HELP--------------------------------
+	--------------------------------------------------------------------
+	>> Think of any number between 1-1000 in mind
+	>> Series of questions will be asked to you
+	>> You give Answer in yes or no
+	>> At end we will guess your Number within 10 Guesses
+	>> if right then you give us money :P
+	>> if wrong then you cheated >:(
+
+	********Game World created by Ghayas && Anas********
